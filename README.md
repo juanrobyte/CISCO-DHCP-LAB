@@ -19,7 +19,7 @@ La red está compuesta por los siguientes dispositivos:
 - **Router Inalámbrico** configurado con:
   - IP LAN: `192.168.0.1`
   - DHCP habilitado
-  - Pool de direcciones: `192.168.0.1 - 192.168.0.50`
+  - Pool de direcciones: `192.168.0.1 - 192.168.0.10`
   - SSID: `LinksysPool`
   - Seguridad WPA2 con clave precompartida.  
 - **Dispositivos finales**:
