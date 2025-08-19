@@ -35,7 +35,7 @@ La red está compuesta por los siguientes dispositivos:
 - Tipo de conexión a Internet: **DHCP automático**.  
 - Dirección IP LAN: `192.168.0.1`.  
 - Servidor DHCP activado:
-  - Rango: `192.168.0.1 – 192.168.0.50`.  
+  - Rango: `192.168.0.1 – 192.168.0.10`.  
   - Máx. usuarios: 50.  
 - Configuración WiFi:
   - SSID: **LinksysPool**.  
